@@ -1,20 +1,34 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+# 🪙 CryptoTracker
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+A sleek and responsive cryptocurrency tracking web app built with React. Displays real-time prices, charts, rankings, and AI-powered sentiment analysis for the latest crypto news.
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+## 🌐 Live Demo
+<!-- Optional: Add link after deployment -->
+[View Live App](https://your-deployed-app-link.com)
 
-## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+---
 
-## Built with 
+## 📌 Features
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+- 🔍 Searchable list of top cryptocurrencies
+- 📈 Interactive price charts (24H, 7D, 1Y) using Chart.js
+- 💹 Market stats: Rank, Market Cap, Current Price
+- 📰 Latest crypto news using NewsAPI
+- 🧠 AI-powered sentiment analysis for headlines using:
+  - OpenAI (GPT-3.5) *(or Hugging Face DistilBERT if used)*
+- ⚙️ Fully responsive Material UI design
 
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
+---
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
+## 🛠️ Tech Stack
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+- **Frontend**: React.js, Material UI (v4)
+- **Charts**: Chart.js, react-chartjs-2
+- **APIs**: CoinGecko API, NewsAPI
+- **AI Integration**: OpenAI GPT-3.5 / Hugging Face Transformers
+- **Others**: Axios, React Router
+
+---
+
+## 📂 Project Structure
+
