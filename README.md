@@ -30,5 +30,4 @@ A sleek and responsive cryptocurrency tracking web app built with React. Display
 
 ---
 
-## 📂 Project Structure
 
