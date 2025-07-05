@@ -2,9 +2,7 @@
 
 A sleek and responsive cryptocurrency tracking web app built with React. Displays real-time prices, charts, rankings, and AI-powered sentiment analysis for the latest crypto news.
 
-## 🌐 Live Demo
-<!-- Optional: Add link after deployment -->
-[View Live App](https://your-deployed-app-link.com)
+
 
 ---
 
